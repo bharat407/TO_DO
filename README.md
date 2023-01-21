@@ -6,14 +6,21 @@
 
 --------------------------------------------------------
 
-## Set up
+## 🛠 Installation and setup
 
-First, check your Node version with ``node -v`` on console (terminal/shell/command prompt).
+1. Clone the repo to your local machine.
 
-### If you don't have Node Js installed (if the above command fails):
+2. Install the required dependency for server using :
 
-Install Node Js on your computer.
+   ```javascript
+   npm install
+   ```
 
-For download [@Node Js](https://nodejs.org/en/download/)
+3. Start the dev server using :
+
+   ```javascript
+   npm start
+   ```
+   
 
 ## Thank You
