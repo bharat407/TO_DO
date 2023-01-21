@@ -1,8 +1,10 @@
 # TO_DO 
 
--  created by [@bharat407](https://github.com/bharat407).
+-  This project helps people to manage the daily task.
 
-- For Daily Task which will be performing on that day
+-  To-Do is a kind of app that generally used to maintain our day-to-day tasks or list everything that we have
+
+-  For Daily Task which will be performing on that day
 
 --------------------------------------------------------
 
